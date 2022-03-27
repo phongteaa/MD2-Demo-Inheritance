@@ -14,7 +14,7 @@ class MountainBike extends Bicycle {
     }
 
     public int getHeight() {
-        return this.getHeight();
+        return seatHeight;
     }
 
     @Override public String toString()
