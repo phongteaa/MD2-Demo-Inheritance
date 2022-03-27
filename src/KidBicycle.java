@@ -16,7 +16,7 @@ public class KidBicycle extends Bicycle {
 
     @Override public String toString()
     {
-        return (super.toString() + "\nNumber of wheel are "
+        return (super.toString() + "\nNumbers of wheel are "
                 + wheels);
     }
 }
